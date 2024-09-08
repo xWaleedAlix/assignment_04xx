@@ -1,16 +1,16 @@
 import React from 'react'
 import Image from 'next/image';
-import myImage from "@/app/Images/House.jpg";
+import myImage from "@/app/Images/Contact.jpg";
 
 const page = () => {
   return (
     <div>
       <figure className="bg-slate-100 rounded-xl p-8 dark:bg-slate-800">
-  <Image className="w-24 h-24 rounded-full mx-auto" src={myImage} alt="My Image" width="384" height="512"></Image>
+  <Image className="w-24 h-24 rounded-full mx-auto" src= {myImage} alt="My Image" width="384" height="512"></Image>
   <div className="pt-6 text-center space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
-      Charming and cozy, this home features a welcoming living space with ample natural light. The well-designed interior includes a modern kitchen, comfortable bedrooms, and a lush garden perfect for relaxation.
+      Phone no:+923250081460<br></br>Email address: waleedali534363279@gmail.com
       </p>
     </blockquote>
     <figcaption className="font-medium">

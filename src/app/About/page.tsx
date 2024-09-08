@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import myImage from "@/app/Images/House.jpg";
+import myImage from "@/app/Images/About.jpg";
 
 const page = () => {
   return (
@@ -10,7 +10,7 @@ const page = () => {
   <div className="pt-6 text-center space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
-      Charming and cozy, this home features a welcoming living space with ample natural light. The well-designed interior includes a modern kitchen, comfortable bedrooms, and a lush garden perfect for relaxation.
+      My name in Waleed Ali.I am artificial intellegance student.I am 21 years old.Thank you fot giving me this oppertunity.
       </p>
     </blockquote>
     <figcaption className="font-medium">
